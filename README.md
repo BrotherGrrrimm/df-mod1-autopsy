@@ -1,2 +1,2 @@
 # df-mod1-autopsy
-Project1 Autupsy
+Project1 Autupsy. This report contains an investigation of George Montgomery under suspicion of misusing company resources to run a side business selling and registering domains to clients during business hours. The investigation yielded several pieces of evidence against Mr. Montgomery including emails between him and his clients, a spreadsheet containing financial information, and a client list.
